@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋! My name is Bello Mueezah and I am a Data Analyst from Nigeria</h1>
-<h3 align="center">I am a passionate Data Analyst with 1+ years of experience. <br>Feel free to reach out to me for any project.</h3>
+<h1 align="center">Hi 👋! I am a Data Analyst passionate about using data to solve real-world problems and drive decision-making </h1>
+<h3 align="center">I am have about 2 years of experience. <br>Feel free to reach out to me for any project.</h3>
 
 <p align="center"> I help <strong>Individuals and Businesses make the best data-driven decisions to drive growth and profitability</strong></p>
 <p align="center"> I’m looking to collaborate on <strong>Data Analytics projects</strong>.</p>
-<p align="center"> I’m looking for help with <strong>Data Analytics and Data Science</strong>.</p>
-<p align="center"> I regularly write articles on <a href="https://medium.com/@mueezahbello" target="_blank">medium.com/@mueezahbello</a></p>
+
+<p align="center"> What I offer:<br>
+- <strong>Data Analysis:</strong> From exploratory analysis to advanced reporting, I uncover trends, patterns, and insights to guide your business decisions.<br>
+- <strong>Dashboard Creation:</strong> Need clear, actionable insights? I build interactive dashboards that visualize your data in a way that’s easy to understand and act upon.<br>
+- <strong>Forecasting & Predictive Analytics:</strong> I provide data-driven predictions to help you prepare for the future, whether it's sales forecasting or identifying potential risks.<br>
+- <strong> Data Cleaning & Preparation:</strong> Ensuring your data is accurate, clean, and ready for analysis is critical. I help streamline messy datasets to deliver reliable results.<br>
+- <strong> Business Intelligence Reporting:</strong> I create detailed reports that highlight KPIs, trends, and performance metrics tailored to your business goals.</p>
+
+<p align="center"> I write articles on <a href="https://medium.com/@mueezahbello" target="_blank">medium.com/@mueezahbello</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
